@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat para jogos RP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm testchat"
+  },
+  "author": "KennedyDOS",
+  "license": "ISC"
+}
